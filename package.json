@@ -2,11 +2,11 @@
   "name": "generator-typed-express-restfulapi",
   "version": "0.0.0",
   "description": "Resful API development package using express and typescript.",
-  "homepage": "",
+  "homepage": "https://www.micknabewata.com/",
   "author": {
     "name": "MickNabewata",
-    "email": "",
-    "url": "http://localhost"
+    "email": "aquarius.mikito.0123@gmail.com",
+    "url": "https://www.micknabewata.com/"
   },
   "files": [
     "generators"
