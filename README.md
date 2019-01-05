@@ -25,7 +25,7 @@ yo typed-express-restfulapi
 
 ## License
 
-MIT © [MickNabewata](https://github.com/MickNabewata)
+MIT © [MickNabewata](https://www.micknabewata.com/)
 
 [npm-image]: https://badge.fury.io/js/generator-typed-express-restfulapi.svg
 [npm-url]: https://npmjs.org/package/generator-typed-express-restfulapi
