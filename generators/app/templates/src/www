@@ -5,7 +5,7 @@
  */
 var App = require('./app');
 var app = new App.default().expressApp;
-var debug = require('debug')('linewebhook:server');
+var debug = require('debug');
 var http = require('http');
 
 /**
