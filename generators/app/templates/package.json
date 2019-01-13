@@ -1,6 +1,10 @@
 {
   "name": "<%= packagename %>",
+  "main": "bin/server.js",
   "version": "0.0.0",
+  "engines": {
+    "node": "8.11.1"
+  },
   "private": true,
   "scripts": {
     "prestart": "gulp build",
@@ -16,7 +20,9 @@
     "serve-favicon": "^2.5.0",
     "cookie-parser": "~1.4.3",
     "csurf": "^1.9.0",
-    "debug": "~2.6.9"
+    "debug": "~2.6.9",
+    "es6-promise": "^4.2.5",
+    "request": "^2.88.0"
   },
   "devDependencies": {
     "@types/chai": "^4.1.7",
@@ -34,6 +40,7 @@
     "@types/serve-favicon": "^2.2.30",
     "@types/sinon": "^7.0.3",
     "@types/typescript": "^2.0.0",
+    "@types/request": "^2.48.1",
     "chai": "^4.2.0",
     "gulp": "^3.9.1",
     "gulp-typescript": "^5.0.0",
